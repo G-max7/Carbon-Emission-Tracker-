@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+flask  # Required if you plan to use an HTTP server for real-time sensor data
+requests  # If making API calls
+gunicorn  # For deployment (optional)
